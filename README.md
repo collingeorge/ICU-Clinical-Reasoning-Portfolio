@@ -2,7 +2,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Cases](https://img.shields.io/badge/Cases-Expanding-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
+
 
 **Author:** Collin George  
 **Status:** Ongoing Clinical Reasoning Portfolio Project  
@@ -482,15 +483,20 @@ This work would not have been possible without the dedication of educators who b
 
 ## 12. License
 
-This work is licensed under the MIT License.
+## License
 
-**Copyright (c) 2025 Collin George**
+This work is released under the Creative Commons **CC0 1.0 Universal (Public Domain Dedication)**.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+You may copy, modify, distribute, and use the work, including for commercial purposes, without asking permission.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+**Important Notes:**
+- All clinical scenarios are entirely synthetic and hypothetical.
+- No real patient data or protected health information (PHI) is included.
+- Content is intended for educational purposes only and does not constitute medical advice.
+- This portfolio reflects premedical reasoning development, not clinical practice.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+For full legal text, see:  
+https://creativecommons.org/publicdomain/zero/1.0/
 
 **Important Notes:**
 - All clinical scenarios are entirely synthetic and hypothetical
