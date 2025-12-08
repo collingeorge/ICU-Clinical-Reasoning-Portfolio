@@ -16,12 +16,15 @@
 - Full hemodynamic profile: CVP, PAOP, SVR, SvO₂
 - If CI remains low → start epi 0.02–0.03 µg/kg/min
 - If filling pressures low → cautious 250 mL bolus
+- Obtain TTE or Swan-guided assessment if CI remains low despite epi + fluids
 - Rewarm to >36°C
 - Chest tube surveillance; labs q4–6h; re-explore if >300 mL/hr or 200 mL/hr × 2 hr
 - Maintain MAP ≥ 65
 - Early extubation if hemodynamics stabilize
 
 **Goals AM:** Stable MAP > 65, lactate downtrend, CI > 2.2, warming achieved, bleeding controlled.
+
+**Notify attending if:** Lactate continues rising despite interventions, chest tube output >200 mL/hr sustained, or MAP <60 on escalating pressors.
 
 ---
 
@@ -33,6 +36,7 @@
 
 **Plan Overnight:**
 - Monitor circuit hourly: flows, pressures, hemolysis
+- Monitor post-oxygenator SaO₂ and pre-arterial-line ABG to detect north–south syndrome early
 - Start CRRT for volume control + renal support (even balance initially, then gentle UF)
 - Avoid additional fluids
 - Maintain MAP ≥ 65 with minimal catecholamines
@@ -41,6 +45,8 @@
 - Daily echo for LV unloading/pulsatility; watch for LV distension and north–south syndrome
 
 **Goals AM:** Stable MAP ≥ 65, lactate improving, limb perfusion maintained, CRRT running.
+
+**Notify attending if:** Limb perfusion deteriorates, hemolysis develops, or LV distension on echo.
 
 ---
 
@@ -53,7 +59,7 @@
 **Plan Overnight:**
 - Bedside echo: septal position neutral-to-left, RV function, inflow alignment
 - MAP 70–80; begin weaning norepi
-- Preload target CVP 8–12; avoid excess fluid
+- Preload target CVP 8–12; avoid CVP >12 to protect RV
 - Continue low-dose heparin; full anticoagulation once platelets recover
 - Extubation candidate overnight if stable
 - Manage ileus with NPO + NG; q4h abdominal exams
@@ -73,11 +79,13 @@
 - Prone immediately ≥ 16 hr, start cisatracurium infusion 24–48 hr
 - Deep sedation (propofol + dex); RASS –3 to –4
 - Conservative fluids; no boluses
-- One recruitment maneuver post-proning
+- One recruitment maneuver post-proning; avoid additional RMs if pressor needs are rising
 - Trend ABG/lactate q4h; maintain PaO₂ 55–80, SpO₂ 88–95
 - ECMO triggers: PF < 80 on FiO₂ 100%, DP > 20, Pplat > 30, pH < 7.20
 
-**Goals AM:** FiO₂ < 60, Pplat < 30, DP < 14, lactate trending down, stable prone cycle.
+**Goals AM:** FiO₂ < 60%, Pplat < 30, DP < 14, lactate trending down, stable prone cycle.
+
+**Notify attending if:** PF ratio falls below 80 despite maximal settings or driving pressure >20 persisting.
 
 ---
 
@@ -93,10 +101,13 @@
 - Start nicardipine 2.5–5 mg/hr, titrate gently to SBP 100–120 / MAP ≥ 60
 - Analgesia + dex for sympathetic control
 - UA now; CTA abdomen if oliguria persists after fluids
+- If CTA confirms good renal perfusion and AKI persists, treat as ATN with supportive care and nephrology consult
 - Avoid diuretics/nephrotoxins
 - Trend BMP q6h
 
 **Goals AM:** SBP 100–120, UOP > 35/hr, Cr stable or down, CVP 6–10.
+
+**Notify attending if:** SBP >130 despite dual agents or sudden hypotension/rising chest tube output.
 
 ---
 
@@ -108,6 +119,7 @@
 
 **Plan Overnight:**
 - Lower PEEP to 6 → 5 if tolerated; maintain DP < 15
+- Avoid high PEEP and recruitment maneuvers to protect bronchial anastomoses
 - Tidal volume 6 mL/kg; consider 4–5 mL/kg if DP high
 - Strict permissive hypercapnia (pH ≥ 7.25)
 - Aggressive diuresis: start furosemide 20–40 mg; escalate to drip if needed; target –500 to –1,000 mL by morning
@@ -116,7 +128,9 @@
 - BAL in AM if oxygenation allows
 - ECMO if PF < 100 on FiO₂ 100%, DP > 20, or Pplat > 30 despite optimization
 
-**Goals AM:** FiO₂ < 50, DP < 15, pH ≥ 7.25, net –0.5 to –1 L, CVP 6–8.
+**Goals AM:** FiO₂ < 50%, DP < 15, pH ≥ 7.25, net –0.5 to –1 L, CVP 6–8.
+
+**Notify attending if:** PF ratio <100 on maximal settings or DP >20 persisting despite adjustments.
 
 ---
 
@@ -131,12 +145,14 @@
 - If MAP < 65 → add epinephrine 0.03–0.1 µg/kg/min
 - Start hydrocortisone 50 mg q6h after cortisol
 - No more fluids; capillary leak + positive 4 L
-- Start CRRT (even balance initially, then UF 100–200 mL/hr)
+- Start CRRT (even balance initially, then UF 100–200 mL/hr once MAP stable ≥65)
 - Check bladder pressure q6h; loosen VAC if >12 mmHg or worsening physiology
 - Continue pip-tazo + vanc + metronidazole; add micafungin if deterioration without clear source
 - Trend lactate & ScvO₂ q2h
 
 **Goals AM:** MAP ≥ 65 on fewer agents, lactate improving, CRRT running, no ACS, no recurrent ischemia.
+
+**Notify attending if:** Lactate continues rising despite triple pressors, bladder pressure >15 mmHg, or hemodynamic collapse.
 
 ---
 
@@ -147,7 +163,7 @@
 **Assessment:** High-risk neuro–cardiac conflict; CPP needs high MAP, cardiac function poor; nimodipine lowering BP.
 
 **Plan Overnight:**
-- Maintain MAP 75–85 (CPP ≥ 65)
+- Maintain MAP 75–85 (CPP ≥ 65); if clinical vasospasm suspected → transient MAP goal 90–100
 - Continue norepinephrine; add vasopressin if needed (minimize catecholamines)
 - Continue nimodipine q4h, anticipate post-dose MAP drop; up-titrate NE 0.01–0.02 µg/kg/min as needed
 - Euvolemia: 80–100 mL/hr maintenance; 250 mL bolus only if CPP < 60 after MAP optimized
@@ -158,6 +174,8 @@
 - Troponin/BNP daily; repeat echo in 24–48 hr
 
 **Goals AM:** CPP 65–70, ICP < 20, MAP 75–85, Na 145–155, stable neuro exam, stable EF, minimal pressors.
+
+**Notify attending if:** New neurologic deficit develops, ICP >20 sustained, or CPP <60 despite interventions.
 
 ---
 
@@ -173,8 +191,8 @@
 
 **Surgery:** 1 open abdomen with high ACS suspicion; 1 early lung transplant with PGD.
 
-### Key Alerts:
+### Critical Alerts:
 - **Patient 7:** May deteriorate → re-exploration or ECMO consult
-- **Patient 6:** Possible VV ECMO if oxygenation worsens
+- **Patient 6:** Possible VV ECMO if oxygenation worsens  
 - **Patient 8:** Vasospasm risk high; require frequent neuro checks
 - **Patient 1:** Rising lactate, vasoplegia vs pump failure → close trending
