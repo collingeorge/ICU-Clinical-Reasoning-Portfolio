@@ -136,7 +136,7 @@ These ICU cases (moderate to advanced complexity) are designed to practice:
 
 ## 3. Repository Structure
 ```
-ICU-Rounds-Portfolio/
+ICU-Clinical-Reasoning-Portfolio/
 │
 ├── README.md                          # Repository overview and navigation guide
 ├── LICENSE                            # License (CC BY 4.0)
@@ -470,7 +470,6 @@ sources of education, inspiration, and observational learning.
 ---
 
 ## 12. License
-## LICENSE
 
 This work is licensed under the Creative Commons Attribution 4.0
 International License (CC BY 4.0).
@@ -507,6 +506,7 @@ Important notes:
 
 **Collin George**  
 Premedical Student — Critical Care & Anesthesiology Focus  
+GitHub: https://github.com/collingeorge
 
 **Portfolio Purpose:** Medical School Application Supplementary Material  
 **Primary Interest:** Anesthesiology, Critical Care Medicine, Perioperative Medicine
