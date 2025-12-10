@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Cases](https://img.shields.io/badge/Cases-Expanding-blue)
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 **Author:** Collin George  
@@ -522,6 +522,21 @@ Premedical Student — Critical Care & Anesthesiology Focus
 **Update Frequency:** Regular additions following clinical observation sessions  
 **Current Phase:** Initial case series development and portfolio expansion  
 **Next Milestone:** 40+ cases by February 2026
+
+---
+
+## How to Cite This Repository
+
+If you use or reference the clinical frameworks, terminology, or educational
+materials in this repository, please cite the work as follows:
+
+**George, Collin B. (2025). ICU Clinical Reasoning Portfolio: A Structured
+Critical Care Education Framework. GitHub.  
+https://github.com/collingeorge/ICU-Clinical-Reasoning-Portfolio**
+
+This work is available under the Creative Commons Attribution 4.0 License
+(CC BY 4.0). You are free to share and adapt the material with proper
+attribution.
 
 ---
 
