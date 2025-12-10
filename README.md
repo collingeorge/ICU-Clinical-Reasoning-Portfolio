@@ -139,7 +139,7 @@ These ICU cases (moderate to advanced complexity) are designed to practice:
 ICU-Rounds-Portfolio/
 │
 ├── README.md                          # Repository overview and navigation guide
-├── LICENSE                            # MIT License
+├── LICENSE                            # License (CC BY 4.0)
 │
 ├── rounds/
 │   ├── night_01_cases.md             # Initial 8-case series
@@ -479,30 +479,43 @@ Deep appreciation is extended to the UW Medicine faculty who have generously pro
 
 This work would not have been possible without the dedication of educators who believe in preparing the next generation of physicians through early clinical exposure and mentorship.
 
+No formal affiliation with, or endorsement by, the University of Washington
+or UW Medicine is implied; all institutions are acknowledged solely as
+sources of education, inspiration, and observational learning.
+
 ---
 
 ## 12. License
+## LICENSE
 
-## License
+This work is licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
 
-This work is released under the Creative Commons **CC0 1.0 Universal (Public Domain Dedication)**.
+You are free to:
 
-You may copy, modify, distribute, and use the work, including for commercial purposes, without asking permission.
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
 
-**Important Notes:**
-- All clinical scenarios are entirely synthetic and hypothetical.
-- No real patient data or protected health information (PHI) is included.
-- Content is intended for educational purposes only and does not constitute medical advice.
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to the original
+  author (Collin B. George), provide a link to the license, and indicate
+  if changes were made. You may do so in any reasonable manner, but not in
+  a way that suggests the licensor or any institution endorses you or your
+  use.
+
+No additional restrictions — You may not apply legal terms or
+technological measures that legally restrict others from doing anything
+the license permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/
+
+Important notes:
+
+- All clinical scenarios are entirely synthetic and hypothetical.  
+- No real patient data or protected health information (PHI) is included.  
+- Content is intended for educational purposes only and does not constitute medical advice.  
 - This portfolio reflects premedical reasoning development, not clinical practice.
-
-For full legal text, see:  
-https://creativecommons.org/publicdomain/zero/1.0/
-
-**Important Notes:**
-- All clinical scenarios are entirely synthetic and hypothetical
-- No protected health information (PHI) is contained in this repository
-- Cases are for educational purposes only and do not constitute medical advice
-- Repository content reflects academic preparation, not clinical practice
 
 ---
 
