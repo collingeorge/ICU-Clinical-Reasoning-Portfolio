@@ -423,37 +423,21 @@ Cases documented chronologically to demonstrate reasoning maturation over time. 
 
 ## 10. Portfolio Metrics and Self-Assessment
 
-### Documentation Standards
+To support deliberate practice and measurable progress, performance across
+core ICU competencies is tracked using the detailed rubric in
+`learning_objectives/self_assessment_rubric.md`.
 
-- All cases follow standardized template format
-- Consistent Assessment & Plan structure across all cases
-- Evidence-based references included for management decisions
-- Physiologic reasoning explicitly stated for interventions
+This rubric uses a 1–9 scale (1 = Novice, 9 = Attending-level mastery)
+across the following domains:
 
-### Self-Assessed Competency Progression
+- **Hemodynamic Assessment**  
+- **Respiratory Management**  
+- **Shock Recognition and Targeted Treatment**  
+- **Problem List Development and Prioritization**  
+- **Evidence Integration and Physiologic Reasoning**
 
-Tracked using detailed rubric in `learning_objectives/self_assessment_rubric.md` across domains:
-
-- **Hemodynamic Assessment:** Novice → Advanced Beginner → Competent
-- **Respiratory Management:** Novice → Advanced Beginner → Competent
-- **Shock Recognition:** Novice → Advanced Beginner → Competent
-- **Problem List Development:** Novice → Advanced Beginner → Competent
-- **Evidence Integration:** Novice → Advanced Beginner → Competent
-
-### Quality Metrics
-
-- **Physiologic Accuracy:** All cases verified against authoritative sources
-- **Guideline Adherence:** Management plans aligned with current standards of care
-- **Documentation Quality:** Professional formatting and clinical terminology
-- **Progressive Complexity:** Demonstrated advancement in case difficulty over time
-- **Evidence Base:** Citations to relevant literature and guidelines
-
-### Longitudinal Tracking
-
-- Cases timestamped with completion date
-- Regular self-assessment of earlier cases to identify knowledge evolution
-- Systematic review of competency progression quarterly
-- Identification of knowledge gaps for targeted learning
+Progress is logged longitudinally to document clinical thinking growth and
+to maintain alignment with modern CTICU expectations.
 
 ---
 
