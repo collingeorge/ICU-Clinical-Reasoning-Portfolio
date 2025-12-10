@@ -430,10 +430,10 @@ core ICU competencies is tracked using the detailed rubric in
 This rubric uses a 1–9 scale (1 = Novice, 9 = Attending-level mastery)
 across the following domains:
 
-- **Hemodynamic Assessment**  
-- **Respiratory Management**  
-- **Shock Recognition and Targeted Treatment**  
-- **Problem List Development and Prioritization**  
+- **Hemodynamic Assessment**
+- **Respiratory Management**
+- **Shock Recognition and Targeted Treatment**
+- **Problem List Development and Prioritization**
 - **Evidence Integration and Physiologic Reasoning**
 
 Progress is logged longitudinally to document clinical thinking growth and
