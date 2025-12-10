@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "ICU Clinical Reasoning Portfolio"
+message: "If you use this repository, please cite it using the information below."
+authors:
+  - family-names: George
+    given-names: Collin B.
+    orcid: "https://orcid.org/0009-0007-8162-6839"  # (Optional: add if you create one)
+version: "1.0"
+date-released: "2025-12-01"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/collingeorge/ICU-Clinical-Reasoning-Portfolio"
+keywords:
+  - critical care
+  - CTICU
+  - clinical reasoning
+  - anesthesia
+  - hemodynamics
+  - medical education
+preferred-citation:
+  type: article
+  authors:
+    - family-names: George
+      given-names: Collin B.
+  title: "ICU Clinical Reasoning Portfolio: A Structured Critical Care Education Framework"
+  year: 2025
+  url: "https://github.com/collingeorge/ICU-Clinical-Reasoning-Portfolio"
