@@ -397,7 +397,7 @@ No catastrophic overnight events, but **Patients 1, 8, 11, and 13** require high
 **Document Information:**
 - **Format:** UW Medicine CTICU Attending-Level Night Shift Summary
 - **Training Context:** Simulated ICU rounds exercise for medical school preparation
-- **Author:** Collin George, Clinical Laboratory Technician & Pre-medical Student
+- **Author:** Collin George
 - **Institution:** University of Washington
 - **Purpose:** Portfolio demonstration of clinical reasoning, prioritization, and ICU management skills
 
