@@ -1,46 +1,58 @@
-# ICU Rounds Portfolio (Premedical Clinical Reasoning Development)
+# ICU Clinical Reasoning Portfolio
 
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Cases](https://img.shields.io/badge/Cases-Expanding-blue)
+**Premedical Educational Development in Critical Care Medicine**
+
+![Status](https://img.shields.io/badge/Status-Educational%20Portfolio-orange)
+![Project Type](https://img.shields.io/badge/Project-Pre--Medical-blue)
+![Version](https://img.shields.io/badge/Version-1.0-green)
+![Last Updated](https://img.shields.io/badge/Updated-December%202025-lightgrey)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+---
 
-**Author:** Collin George  
-**Status:** Ongoing Clinical Reasoning Portfolio Project  
-**Repository Version:** 1.0  
-**Last Updated:** December 6, 2025
+## Educational Use Only
+
+This repository contains educational materials developed for medical school application portfolio purposes and is not intended for clinical application.
+
+**This is not:**
+- Medical advice or clinical guidance
+- Real patient documentation or clinical records
+- An institutional guideline or clinical protocol
+- Approved for clinical use
+- A substitute for clinical training or supervision
+
+**This is:**
+- Independent pre-medical educational project
+- Simulated case studies for learning demonstration
+- Medical school application portfolio material
+- Structured clinical reasoning exercise
+
+**All cases are entirely hypothetical, de-identified, and synthetic.**
+
+---
+
+## Disclaimers
+
+**Institutional Affiliation:**  
+This is an independent educational project. It is not an official University of Washington or UW Medicine document and is not affiliated with, endorsed by, or approved by UW Medicine, its faculty, or staff.
+
+**Clinical Context:**  
+Cases are constructed from published literature, educational resources, and general medical knowledge. Clinical observation at UW Medical Center informed educational learning but does not constitute clinical practice or patient care involvement.
+
+**Educational Purpose:**  
+This portfolio demonstrates observational learning, structured case-based reasoning development, and physiologic understanding for medical school preparation. It does not represent independent clinical decision-making or professional medical practice.
+
+**Liability:**  
+This work is provided "as is" without warranty of any kind. Users assume full responsibility for any use of these materials.
+
+**Author Status:**  
+Pre-medical student. Not a licensed healthcare professional. Not engaged in clinical practice.
 
 ---
 
 ## Portfolio Overview
 
-A comprehensive collection of simulated ICU cases documenting progressive clinical reasoning development in critical care medicine. This portfolio demonstrates systematic approach to hemodynamic instability, respiratory failure, shock physiology, and multi-system critical illness through structured case analysis and evidence-based management planning.
-
----
-
-## Disclaimer
-
-This repository constitutes a premedical educational portfolio documenting systematic development of clinical reasoning skills in critical care, anesthesia, trauma, and perioperative medicine.
-
-**Critical Clarifications:**
-- All cases are entirely hypothetical, de-identified, and synthetic
-- Constructed solely for academic training and medical school preparation
-- Does not represent real patients, clinical documentation, or professional medical decision-making
-- Not intended as medical advice or clinical guidance
-- Reflects observational learning under supervision, not independent clinical practice
-
-**Educational Purpose:**
-- Demonstrates supervised shadowing insights and observational learning
-- Documents structured case-based reasoning development
-- Illustrates physiologic understanding and differential diagnosis frameworks
-- Prepares for medical school clinical environments
-- Shows longitudinal engagement with acute care medicine
-
----
-
-## ICU Rounds Portfolio: A Progressive Series of Simulated Critical Care Cases
-
-This repository contains a curated series of ICU case reviews modeling real-world critical care thought processes. The goal is to document maturation of clinical reasoning across domains including:
+A comprehensive collection of simulated ICU cases documenting progressive clinical reasoning development in critical care medicine. This portfolio demonstrates systematic approach to:
 
 - Hemodynamic instability and shock physiology
 - Respiratory failure and acute respiratory distress syndrome (ARDS)
@@ -52,490 +64,175 @@ This repository contains a curated series of ICU case reviews modeling real-worl
 - ECMO candidacy assessment and advanced life support
 - Sepsis and multi-organ dysfunction syndrome (MODS)
 
-Each case includes a structured Assessment and Plan modeled after documentation expected of junior trainees in critical care medicine. Cases progress in complexity, reflecting development from foundational ICU concepts to advanced multi-system management.
-
-This portfolio will expand continuously throughout 2025–2026.
-
----
-
-## Portfolio Statistics
-
-- **Total Cases:** Expanding (Initial series: 8 cases, Night 1)
-- **Case Complexity Range:** Moderate to Advanced Multi-System Failure
-- **Primary Domains Covered:** 8+ critical care categories
-- **Documentation Format:** Comprehensive Assessment & Plan
-- **Time Period:** December 2025 - Ongoing
-- **Update Frequency:** Regular additions following clinical observation sessions
+**Educational Approach:**  
+Each case includes structured Assessment and Plan documentation modeled after formats used in critical care training. Cases progress in complexity, reflecting development from foundational ICU concepts to advanced multi-system management.
 
 ---
 
-## Table of Contents
-
-1. [Purpose of This Portfolio](#1-purpose-of-this-portfolio)
-2. [Case Series Overview](#2-case-series-overview)
-3. [Repository Structure](#3-repository-structure)
-4. [Clinical Reasoning Framework](#4-clinical-reasoning-framework)
-5. [How to Navigate This Portfolio](#5-how-to-navigate-this-portfolio)
-6. [Key Learning Themes](#6-key-learning-themes)
-7. [Portfolio Development Philosophy](#7-portfolio-development-philosophy)
-8. [Methodology](#8-methodology)
-9. [Future Rounds Roadmap](#9-future-rounds-roadmap)
-10. [Portfolio Metrics and Self-Assessment](#10-portfolio-metrics-and-self-assessment)
-11. [Acknowledgments](#11-acknowledgments)
-12. [License](#12-license)
-
----
-
-## Quick Start
-
-1. Read [Clinical Reasoning Framework](#4-clinical-reasoning-framework) to understand the systematic approach
-2. Review sample cases in `rounds/night_01_cases.md`
-3. Examine learning objectives in `learning_objectives/` for competency tracking
-4. Explore `references/bibliography.md` for evidence-based foundations
-
----
-
-## 1. Purpose of This Portfolio
-
-This portfolio serves as a longitudinal demonstration of clinical reasoning development during premedical training, specifically focused on:
-
-- ICU-level physiology and pathophysiology
-- Early critical care decision-making and prioritization
-- Anesthesia and perioperative evaluation
-- Shock classification and management (distributive, cardiogenic, hypovolemic, obstructive)
-- Mechanical ventilation modes and weaning strategies
-- Sedation, analgesia, and delirium prevention
-- Trauma assessment and airway decision-making
-- Integration of multi-system physiology in critical environments
-
-It is intended to accompany medical school applications as evidence of:
-
-- Academic initiative and self-directed learning
-- Sustained interest in anesthesiology and critical care medicine
-- Ability to synthesize complex clinical information
-- Long-term commitment to high-acuity patient care
-- Professional maturity and scientific rigor
-- Capacity for systematic clinical thinking
-
----
-
-## 2. Case Series Overview
-
-These ICU cases (moderate to advanced complexity) are designed to practice:
-
-- Identifying immediate life threats (ABCs prioritization)
-- Developing structured, prioritized problem lists
-- Writing coherent Assessment & Plan statements
-- Refining clinical terminology and documentation standards
-- Integrating hemodynamics, ventilation, neurological status, and shock physiology
-- Applying guideline-based frameworks (e.g., Surviving Sepsis Campaign, ARDSNet protocols)
-- Building pattern recognition for common ICU syndromes
-- Demonstrating progressive complexity in clinical reasoning
-
----
-
-## 3. Repository Structure
+## Repository Structure
 ```
 ICU-Clinical-Reasoning-Portfolio/
-│
-├── README.md                          # Repository overview and navigation guide
-├── LICENSE                            # License (CC BY 4.0)
-│
-├── rounds/
-│   ├── night_01_cases.md             # Initial 8-case series
-│   ├── night_02_cases.md             # 6 additional cases
-│   ├── night_03_cases.md             # Ongoing case additions
-│   └── night_XX_cases.md             # Future rounds
-│
-├── references/
-│   ├── icu_physiology_notes.md        # Core physiology concepts and principles
-│   ├── shock_classification.md        # Detailed shock type differentiation
-│   ├── ventilator_strategies.md       # Mechanical ventilation approaches
-│   └── bibliography.md                # Curated critical care literature
-│
-├── learning_objectives/
-│   ├── hemodynamics.md                # Hemodynamic assessment competencies
-│   ├── respiratory_failure.md         # Ventilation and oxygenation goals
-│   ├── neurocritical_care.md          # TBI and neuro monitoring objectives
-│   ├── sedation_analgesia.md          # Pain and sedation management goals
-│   └── self_assessment_rubric.md      # Competency tracking framework
-│
-└── templates/
-    └── case_template.md               # Standardized case documentation format
+├── README.md                           # This file
+├── 01_Hemodynamics_and_Shock/          # Shock states and hemodynamic cases
+├── 02_Respiratory_Failure/             # Ventilation and ARDS cases
+├── 03_Neurocritical_Care/              # TBI, stroke, and neuro cases
+├── 04_Perioperative_Complications/     # Post-surgical critical illness
+├── 05_Sedation_and_Delirium/           # ICU sedation management
+├── 06_Renal_and_Fluid/                 # AKI and fluid resuscitation
+├── 07_Trauma_and_Airways/              # Trauma and airway emergencies
+├── 08_ECMO_and_Advanced_Support/       # Advanced life support cases
+├── 09_Sepsis_and_MODS/                 # Sepsis and multi-organ failure
+└── References/                         # Evidence base and citations
 ```
 
-**Case Documentation Structure:**
-- Each night's cases documented in single markdown file (chronological organization)
-- Cases added as completed during observational learning sessions
-- Progressive complexity maintained across rounds
-- Consistent formatting using standardized template
+---
+
+## How to Use This Portfolio
+
+### For Learning
+
+**Medical Students:**
+- Study structured clinical reasoning frameworks
+- Practice differential diagnosis development
+- Learn ICU assessment and planning documentation
+- Understand multi-system critical illness management
+
+**Pre-Medical Students:**
+- Demonstrate clinical interest and engagement
+- Show systematic approach to complex medical problems
+- Build foundational critical care knowledge
+- Prepare for medical school clinical rotations
+
+### For Review
+
+**Navigate by clinical domain:**
+- Choose a case category from the repository structure
+- Review patient presentation and clinical data
+- Analyze assessment and management plan
+- Compare with current critical care guidelines
 
 ---
 
-## 4. Clinical Reasoning Framework
+## Case Format
 
-**Framework Rationale:**
+Each case follows standardized ICU documentation structure:
 
-This systematic approach mirrors the structured assessment taught in critical care training programs and ensures comprehensive evaluation of acutely ill patients. The ABCDE primary survey prioritizes immediate life threats while the subsequent problem-oriented approach facilitates organized documentation and decision-making.
+**Patient Presentation:**
+- Chief complaint and admission diagnosis
+- Relevant history and physical exam findings
+- Pertinent laboratory and imaging data
 
-### Initial Assessment (Primary Survey)
+**Assessment:**
+- Problem list by system
+- Physiologic reasoning and differential diagnosis
+- Risk stratification and severity assessment
 
-1. **Airway:** Patency and protection
-2. **Breathing:** Adequacy of oxygenation and ventilation
-3. **Circulation:** Perfusion status and shock assessment
-4. **Disability:** Neurological function (GCS, pupillary response)
-5. **Exposure:** Comprehensive examination, vital signs review, lines/drains/tubes assessment
+**Plan:**
+- System-by-system management approach
+- Monitoring and intervention strategy
+- Evidence-based rationale for decisions
 
-### Problem List Development
-
-- Prioritized by acuity and organ system
-- Active issues clearly distinguished from chronic background conditions
-- Interdependencies between problems identified
-- Physiologic impact of each problem considered
-
-### Differential Diagnosis Generation
-
-- Evidence-based consideration of likely etiologies
-- Critical "cannot miss" diagnoses highlighted
-- Diagnostic testing strategies outlined
-- Likelihood assessment based on clinical presentation
-
-### Management Priorities
-
-- Immediate stabilization measures
-- Source control and definitive interventions
-- Monitoring and reassessment plans
-- Anticipation of complications
-- Escalation criteria clearly defined
-
-### Evidence Integration
-
-- Application of relevant clinical practice guidelines
-- Reference to landmark critical care trials
-- Physiologic reasoning for interventions
-- Risk-benefit analysis of treatment options
+**Learning Points:**
+- Key physiologic concepts
+- Clinical pearls and pitfalls
+- Relevant literature and guidelines
 
 ---
 
-## 5. How to Navigate This Portfolio
+## Evidence Base
 
-### For Medical School Admissions Committees
+Cases are informed by:
 
-- Review [Clinical Reasoning Framework](#4-clinical-reasoning-framework) to understand systematic approach
-- Examine 2-3 cases from `rounds/` to assess clinical thinking maturity
-- Reference [Key Learning Themes](#6-key-learning-themes) for demonstration of progressive complexity
-- Consult `learning_objectives/self_assessment_rubric.md` for competency tracking
-- Review `references/bibliography.md` for evidence-based approach
+- Critical care textbooks (Marino's ICU Book, UpToDate)
+- Society of Critical Care Medicine (SCCM) guidelines
+- American College of Chest Physicians (CHEST) recommendations
+- Surviving Sepsis Campaign guidelines
+- Acute Respiratory Distress Syndrome Network (ARDSNet) protocols
+- Traumatic Brain Injury Foundation guidelines
+- Peer-reviewed critical care literature (2020-2025)
 
-### For Self-Assessment and Continued Learning
-
-- Each case includes completion date for longitudinal tracking
-- Cases increase in complexity across successive nights
-- Self-assessment rubric available in `learning_objectives/`
-- Reference materials organized by clinical domain
-- Template available for standardized future case documentation
-
-### For Peer Review and Collaboration
-
-- Case template available in `templates/` for standardization
-- References and bibliography demonstrate evidence-based approach
-- Systematic framework ensures consistent quality
-- Learning objectives provide clear competency targets
+Complete references provided in each case directory.
 
 ---
 
-## 6. Key Learning Themes
+## Progressive Complexity
 
-Throughout this portfolio, recurrent themes demonstrate progressive clinical reasoning development:
+**Foundational Cases (Cases 1-3):**
+- Single-system pathology
+- Clear-cut diagnoses
+- Standard management approaches
 
-### Hemodynamic Assessment
+**Intermediate Cases (Cases 4-7):**
+- Multi-system involvement
+- Diagnostic uncertainty
+- Competing priorities
 
-- Interpretation of blood pressure, heart rate, CVP, and urine output
-- Shock index calculation and clinical significance
-- Fluid responsiveness assessment (passive leg raise testing, dynamic parameters)
-- Vasopressor and inotrope selection (norepinephrine, vasopressin, epinephrine, dobutamine)
-- MAP target optimization for different shock states
-- Recognition of distributive vs. cardiogenic physiology
-
-### Respiratory Management
-
-- Differentiation of oxygenation vs. ventilation failure
-- Non-invasive ventilation (BiPAP, HFNC) vs. intubation criteria
-- Mechanical ventilation modes (volume control, pressure control, PRVC)
-- Lung-protective ventilation strategies (low tidal volume, PEEP titration)
-- ARDS management and prone positioning
-- Ventilator dyssynchrony recognition
-- Liberation from mechanical ventilation and spontaneous breathing trials
-
-### Neurocritical Care
-
-- Glasgow Coma Scale (GCS) scoring and trending
-- Intracranial pressure (ICP) management strategies
-- Cerebral perfusion pressure (CPP) optimization
-- Sedation interruption protocols and delirium assessment (CAM-ICU)
-- Airway protection thresholds in altered mental status
-- Repeat neuroimaging criteria
-
-### Shock Physiology
-
-**Distributive Shock:**
-- Septic shock (vasopressor requirements, source control)
-- Anaphylactic shock (epinephrine, steroids, H1/H2 blockade)
-- Neurogenic shock (spinal cord injury)
-
-**Cardiogenic Shock:**
-- Myocardial infarction
-- Fulminant myocarditis
-- Valvular dysfunction
-- Mechanical circulatory support considerations
-
-**Hypovolemic Shock:**
-- Hemorrhagic (massive transfusion protocol)
-- Non-hemorrhagic dehydration
-
-**Obstructive Shock:**
-- Pulmonary embolism
-- Tension pneumothorax
-- Cardiac tamponade
-
-### Multi-System Integration
-
-- Recognition of MODS and organ system crosstalk
-- Balancing competing physiologic goals (fluid resuscitation vs. ARDS management)
-- Anticipating complications before they occur
-- Pattern recognition for common ICU syndromes
-- Preventive strategies for ICU-acquired complications
+**Advanced Cases (Cases 8-12):**
+- Complex multi-organ failure
+- Rare presentations
+- Ethical and resource allocation challenges
+- Advanced life support considerations
 
 ---
 
-## 7. Portfolio Development Philosophy
+## Author Information
 
-This portfolio reflects a deliberate approach to medical education preparation:
+**Author:** Collin B. George, BS  
+**Project Type:** Independent pre-medical educational portfolio  
+**Status:** Preparing for medical school matriculation 2026  
+**Educational Context:** Clinical observation at University of Washington Medical Center informed case development
 
-### Progressive Complexity
-
-Cases advance from single-system pathology to multi-organ dysfunction, mirroring the learning curve of clinical training. Early cases focus on fundamental concepts (shock recognition, fluid resuscitation) while later cases integrate multiple simultaneous problems requiring prioritization and systems-based thinking.
-
-### Evidence Integration
-
-Management plans reference current guidelines (Surviving Sepsis Campaign, ARDSNet protocols, TBI guidelines from the Brain Trauma Foundation) demonstrating ability to apply medical literature to clinical scenarios. Key trials are cited where relevant to management decisions.
-
-### Systematic Documentation
-
-Each case follows standardized ICU documentation format, preparing for clinical clerkship expectations. The Assessment & Plan structure mirrors real-world critical care documentation, facilitating transition to clinical environments.
-
-### Physiologic Reasoning
-
-Emphasis on pathophysiology and mechanism-based thinking rather than purely algorithmic approaches. Understanding why interventions work is prioritized over memorization of protocols, building foundation for clinical decision-making.
-
-### Longitudinal Development
-
-Cases documented chronologically to demonstrate reasoning maturation over time. Early cases are preserved without revision to show authentic learning progression. Self-reflection on earlier cases informs continued development.
+**GitHub:** [github.com/collingeorge](https://github.com/collingeorge)  
+**ORCID:** [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)  
+**License:** CC BY 4.0
 
 ---
 
-## 8. Methodology
+## Acknowledgments
 
-### Case Development Process
+The author is grateful to University of Washington faculty and critical care staff for clinical observation opportunities and mentorship that informed this educational work.
 
-1. Simulated clinical scenarios constructed based on common ICU presentations observed during clinical shadowing
-2. Cases informed by critical care literature and evidence-based guidelines
-3. Each case includes relevant vital signs, laboratory values, imaging findings, and physical examination findings
-4. Assessment and Plan sections structured using standardized ICU documentation format
-5. Clinical reasoning developed through iterative review and self-assessment
-6. Cases reviewed for physiologic accuracy and clinical plausibility
-7. No real patient data used; all cases entirely synthetic
-
-### Learning Approach
-
-- **Active Problem-Solving:** Initial case assessment performed independently before consulting references
-- **Literature Consultation:** Evidence-based interventions verified against current guidelines
-- **Longitudinal Tracking:** Reasoning development tracked across cases using self-assessment rubric
-- **Structured Thinking:** Emphasis on systematic assessment following ABCDE framework
-- **Progressive Complexity:** Deliberate advancement from foundational to advanced concepts
-- **Reflective Practice:** Regular review of previous cases to identify knowledge gaps
-
-### Quality Assurance
-
-- Physiologic accuracy verified against standard critical care textbooks
-- Management plans aligned with current clinical practice guidelines
-- Cases reviewed for internal consistency and clinical plausibility
-- Regular revision based on updated evidence and guidelines
-- Peer discussion when available for additional perspectives
+Clinical observation provided exposure to ICU workflows, clinical reasoning processes, and multi-disciplinary critical care medicine. This does not constitute clinical training, patient care involvement, or institutional collaboration.
 
 ---
 
-## 9. Future Rounds Roadmap
+## Contributing and Feedback
 
-### Short-term (December 2025 - February 2026)
+This is a living educational portfolio. Constructive feedback is welcome:
 
-**Case Development:**
-- Complete 40+ core ICU cases across all shock categories
-- Develop comprehensive anesthesia case series (10+ perioperative cases)
-- Add neurocritical care focus cases (status epilepticus, stroke, SAH)
-- Document trauma cases with damage control resuscitation
+- **Issues:** Open a GitHub issue for corrections or suggestions
+- **Pull Requests:** Submit proposed improvements to case presentations
+- **Discussions:** Use GitHub Discussions for educational questions
 
-**Knowledge Integration:**
-- Create systematic reviews of landmark trials:
-  - ARDSNet (low tidal volume ventilation)
-  - PROSEVA (prone positioning in ARDS)
-  - NICE-SUGAR (glucose control)
-  - Rivers (early goal-directed therapy and subsequent trials)
-- Develop shock classification reference guide
-- Create ventilator troubleshooting algorithms
-
-### Medium-term (March 2026 - June 2026)
-
-**Advanced Cases:**
-- ECMO candidacy assessment and management
-- Continuous renal replacement therapy (CRRT) cases
-- Advanced mechanical circulatory support (Impella, IABP, LVAD)
-- Liver failure and hepatorenal syndrome
-- Massive transfusion protocol scenarios
-
-**Skill Development:**
-- Integration of point-of-care ultrasound (POCUS) findings
-- Procedural reasoning documentation
-- Code blue leadership and ACLS integration
-- Difficult airway management scenarios
-
-**Portfolio Enhancement:**
-- Development of teaching materials from cases
-- Creation of differential diagnosis frameworks
-- Building clinical pearls database
-
-### Long-term (Through MCAT and Application Cycle)
-
-**Portfolio Goals:**
-- Reach 100+ total documented cases
-- Complete critical care trials systematic review
-- Develop anesthesia subspecialty case series (cardiac, neuro, trauma, pediatric)
-- Create comprehensive reference library
-- Publish portfolio as demonstration of academic preparation
-
-**Additional Content:**
-- Simulation-based procedural competency logs
-- Integration of observed OR cases with anesthesia reasoning
-- Development of clinical teaching materials
-- Creation of study guides for medical school preparation
+**Note:** This is an educational portfolio, not a clinical resource. Feedback should focus on educational value and clinical reasoning demonstration.
 
 ---
 
-## 10. Portfolio Metrics and Self-Assessment
+## Citation
 
-To support deliberate practice and measurable progress, performance across
-core ICU competencies is tracked using the detailed rubric in
-`learning_objectives/self_assessment_rubric.md`.
-
-This rubric uses a 1–9 scale (1 = Novice, 9 = Attending-level mastery)
-across the following domains:
-
-- **Hemodynamic Assessment**
-- **Respiratory Management**
-- **Shock Recognition and Targeted Treatment**
-- **Problem List Development and Prioritization**
-- **Evidence Integration and Physiologic Reasoning**
-
-Progress is logged longitudinally to document clinical thinking growth and
-to maintain alignment with modern CTICU expectations.
+If you reference this work in presentations or academic writing:
+```text
+George CB. ICU Clinical Reasoning Portfolio: Premedical Educational 
+Development in Critical Care Medicine. GitHub Repository. Version 1.0. 
+Published December 2025. Available from: 
+https://github.com/collingeorge/ICU-Clinical-Reasoning-Portfolio 
+[Accessed: date]
+```
 
 ---
 
-## 11. Acknowledgments
+## License
 
-This portfolio was developed through structured observational learning at the University of Washington Medical Center's critical care and anesthesiology departments. The cases reflect synthesis of:
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-- Clinical observations during supervised ICU and OR shadowing
-- Anesthesiology and critical care departmental teaching conferences
-- Critical care literature and evidence-based clinical practice guidelines
-- Mentorship from attending physicians in acute care specialties
-- Discussions with residents and fellows during clinical rounds
-- Self-directed study of critical care medicine and physiology
+**You are free to:**
+- Share and redistribute the material for educational purposes
+- Adapt and build upon the material for educational purposes
 
-Deep appreciation is extended to the UW Medicine faculty who have generously provided teaching, supervision, and guidance during clinical exposure opportunities. Their commitment to medical education has been instrumental in developing the clinical reasoning demonstrated in this portfolio.
+**Under the following terms:**
+- **Attribution:** Give appropriate credit to Collin B. George, provide a link to the license, and indicate if changes were made
+- Do not suggest that the author or any institution endorses you or your use
 
-**Special Recognition:**
-- University of Washington Medical Center ICU Department
-- University of Washington Department of Anesthesiology & Pain Medicine
-- Clinical mentors who provided shadowing and observational learning opportunities
-- Medical school advisors supporting portfolio development and application preparation
-- Critical care nursing staff who provided invaluable teaching during clinical observations
-
-This work would not have been possible without the dedication of educators who believe in preparing the next generation of physicians through early clinical exposure and mentorship.
-
-No formal affiliation with, or endorsement by, the University of Washington
-or UW Medicine is implied; all institutions are acknowledged solely as
-sources of education, inspiration, and observational learning.
+© 2025 Collin B. George — Licensed under CC BY 4.0
 
 ---
-
-## 12. License
-
-This work is licensed under the Creative Commons Attribution 4.0
-International License (CC BY 4.0).
-
-You are free to:
-
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
-
-Under the following terms:
-
-- **Attribution** — You must give appropriate credit to the original
-  author (Collin B. George), provide a link to the license, and indicate
-  if changes were made. You may do so in any reasonable manner, but not in
-  a way that suggests the licensor or any institution endorses you or your
-  use.
-
-No additional restrictions — You may not apply legal terms or
-technological measures that legally restrict others from doing anything
-the license permits.
-
-Full license text: https://creativecommons.org/licenses/by/4.0/
-
-Important notes:
-
-- All clinical scenarios are entirely synthetic and hypothetical.  
-- No real patient data or protected health information (PHI) is included.  
-- Content is intended for educational purposes only and does not constitute medical advice.  
-- This portfolio reflects premedical reasoning development, not clinical practice.
-
----
-
-## Contact Information
-
-**Collin George**  
-Premedical Student — Critical Care & Anesthesiology Focus  
-GitHub: https://github.com/collingeorge
-
-**Portfolio Purpose:** Medical School Application Supplementary Material  
-**Primary Interest:** Anesthesiology, Critical Care Medicine, Perioperative Medicine
-
----
-
-## Repository Status
-
-**Status:** Active Development  
-**Update Frequency:** Regular additions following clinical observation sessions  
-**Current Phase:** Initial case series development and portfolio expansion  
-**Next Milestone:** 40+ cases by February 2026
-
----
-
-## How to Cite This Repository
-
-If you use or reference the clinical frameworks, terminology, or educational
-materials in this repository, please cite the work as follows:
-
-**George, Collin B. (2025). ICU Clinical Reasoning Portfolio: A Structured
-Critical Care Education Framework. GitHub.  
-https://github.com/collingeorge/ICU-Clinical-Reasoning-Portfolio**
-
-This work is available under the Creative Commons Attribution 4.0 License
-(CC BY 4.0). You are free to share and adapt the material with proper
-attribution.
-
----
-
-**Last Updated:** December 09, 2025  
-**Next Scheduled Review:** Monthly portfolio assessment and competency evaluation
